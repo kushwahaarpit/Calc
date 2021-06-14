@@ -7,6 +7,8 @@ Showing the run time output of this code
 our magical calculator
 type 'quit' to exit
 
+OUTPUT:
+
 Enter equation:
 10+5=
 15+5=
